@@ -1,0 +1,14 @@
+1- Inicio
+2- Apresentar no ecrã do computador "Introduza um número inteiro"
+3- ler o número (n1)
+4- Apresentar no ecrã do computador "Introduza outro número inteiro"
+5- ler outro némero (n2)
+6- Calcular a soma entre n1 e n2
+7- Calcular a subtração entre n1 e n2
+8- calcucar a divisão entre n1 e n2
+9- calcucar a multiplicação entre n1 e n2
+10- Apresentar o resultado da soma
+11- Apresentar o resultado da subtração
+12- Apresentar o resultado da divisão
+13- Apresentar o resultado da multiplicação
+14 Fim
